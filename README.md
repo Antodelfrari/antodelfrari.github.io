@@ -1,5 +1,4 @@
-# Portafolio dinamico, realizado como plantilla como proyecto freelancer para un profesional hematologo de Buenos Aires
-
+# Portafolio dinamico, realizado como proyecto final para argentina programa
 ## Funciones:
 #### • Modo nocturno
 #### • Slider (hero)
